@@ -1,0 +1,1 @@
+Babushok, V.I.,  Gubernov, V.V.,  Minaev, S.S.,  Miroshnichenko, T.P. Simple model of inhibition of chain-branching combustion processes. Combustion Theory and Modelling. - 2017. - Vol. 21, Issue 6. - Pp. 1066-1079.
