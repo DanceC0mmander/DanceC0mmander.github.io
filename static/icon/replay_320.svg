@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="24px" viewBox="0 0 20 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>AM/icon/replay_320</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="AM/icon/replay_320" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-2" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="20" height="24"></rect>
+        <g id="Group-15" transform="translate(10.000000, 12.500000) rotate(-179.000000) translate(-10.000000, -12.500000) translate(2.000000, 3.000000)">
+            <path d="M0.00977070649,7.52194617 C0.217619007,3.33306698 3.71547249,-5.32907052e-14 8,-5.32907052e-14 C12.418278,-5.32907052e-14 16,3.5444124 16,7.91666667 C16,11.2459697 13.9232334,14.0952705 10.9817273,15.2651672 L10.6664172,14.5371076 C13.3228403,13.4884678 15.2,10.9195008 15.2,7.91666667 C15.2,3.98163782 11.9764502,0.791666667 8,0.791666667 C4.12907147,0.791666667 0.971614623,3.81458188 0.806763843,7.60501888 C0.548878628,7.57520292 0.280756931,7.54685127 0.00977070649,7.52194617 Z" id="Combined-Shape" fill="#B3B3B3"></path>
+            <polyline id="Line-Copy-2" stroke="#ACACAC" stroke-width="0.799999952" stroke-linecap="round" transform="translate(7.200000, 14.954139) scale(-1, 1) translate(-7.200000, -14.954139) " points="4.8 18.8249452 9.6 14.9786165 4.8 11.0833333"></polyline>
+        </g>
+    </g>
+</svg>

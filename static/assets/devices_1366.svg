@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="442px" height="243px" viewBox="0 0 442 243" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>AM/assets/devices_1366</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="78" y="0" width="337" height="175" rx="6.55391635"></rect>
+        <path d="M27,92.0913922 C27,88.1749244 30.1808344,85 34.105058,85 L267.894942,85 C271.818957,85 275,88.1872549 275,92.0913922 L275,228 L27,228 L27,92.0913922 Z" id="path-2"></path>
+        <rect id="path-3" x="349" y="76" width="89" height="126" rx="6.55391635"></rect>
+        <rect id="path-4" x="315" y="121" width="54" height="96" rx="4.91543727"></rect>
+        <path d="M0.184221564,229.200985 C-0.342906453,227.985415 0.298859019,227 1.62873002,227 L300.352888,227 C301.677796,227 302.370353,228.002473 301.797397,229.200985 C301.797397,229.200985 299.15277,239 284.756466,239 L17.2251518,239 C2.82884784,239 0.184221564,229.200985 0.184221564,229.200985 Z" id="path-5"></path>
+        <filter x="-21.3%" y="-10.5%" width="180.9%" height="137.4%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="13" dy="12" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.072435462 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-7" x="0" y="0" width="68" height="147" rx="4.42389342"></rect>
+        <rect id="path-8" x="7" y="107" width="14" height="5" rx="2.5"></rect>
+        <rect id="path-9" x="27" y="107" width="14" height="5" rx="2.5"></rect>
+        <rect id="path-10" x="47" y="107" width="14" height="5" rx="2.5"></rect>
+        <rect id="path-11" x="7" y="119" width="14" height="5" rx="2.5"></rect>
+        <rect id="path-12" x="27" y="119" width="14" height="5" rx="2.5"></rect>
+        <rect id="path-13" x="47" y="119" width="14" height="5" rx="2.5"></rect>
+        <rect id="path-14" x="7" y="131" width="14" height="5" rx="2.5"></rect>
+        <rect id="path-15" x="27" y="131" width="14" height="5" rx="2.5"></rect>
+        <rect id="path-16" x="47" y="131" width="14" height="5" rx="2.5"></rect>
+        <rect id="path-17" x="7" y="88" width="14" height="6" rx="2.94926228"></rect>
+        <rect id="path-18" x="47" y="88" width="14" height="6" rx="2.94926228"></rect>
+        <ellipse id="path-19" cx="34" cy="90.020625" rx="6" ry="6.02062496"></ellipse>
+    </defs>
+    <g id="AM/assets/devices_1366" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-4" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="442" height="243"></rect>
+        <g id="Group-30" transform="translate(2.000000, 2.000000)">
+            <g id="Rectangle-6" transform="translate(246.500000, 87.500000) scale(-1, 1) translate(-246.500000, -87.500000) ">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#C6C6C6" stroke-width="1" x="78.5" y="0.5" width="336" height="174" rx="6.55391635"></rect>
+            </g>
+            <g id="Rectangle-6-Copy" transform="translate(151.000000, 156.500000) scale(-1, 1) translate(-151.000000, -156.500000) ">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <path stroke="#C6C6C6" stroke-width="1" d="M27.5,227.5 L274.5,227.5 L274.5,92.0913922 C274.5,88.4592198 271.538634,85.5 267.894942,85.5 L34.105058,85.5 C30.4568358,85.5 27.5,88.4512084 27.5,92.0913922 L27.5,227.5 Z"></path>
+            </g>
+            <g id="Rectangle-6-Copy-3" transform="translate(393.500000, 139.000000) scale(-1, 1) translate(-393.500000, -139.000000) ">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <rect stroke="#C6C6C6" stroke-width="1" x="349.5" y="76.5" width="88" height="125" rx="6.55391635"></rect>
+            </g>
+            <g id="Rectangle-6-Copy-4" transform="translate(342.000000, 169.000000) scale(-1, 1) translate(-342.000000, -169.000000) ">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                <rect stroke="#C6C6C6" stroke-width="1" x="315.5" y="121.5" width="53" height="95" rx="4.91543727"></rect>
+            </g>
+            <g id="Rectangle-13" transform="translate(151.000000, 233.000000) scale(-1, 1) translate(-151.000000, -233.000000) ">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <path stroke="#C6C6C6" stroke-width="1" d="M0.642946929,229.00206 L0.666949836,229.070703 C0.683584609,229.132339 0.724552208,229.260821 0.79416687,229.446546 C0.913040455,229.763688 1.06921198,230.119104 1.2669472,230.503245 C1.83513091,231.607057 2.62100525,232.712934 3.65883747,233.746152 C6.64004186,236.714102 11.0576838,238.5 17.2251518,238.5 L284.756466,238.5 C290.923934,238.5 295.341576,236.714102 298.322781,233.746152 C299.360613,232.712934 300.146487,231.607057 300.714671,230.503245 C300.912406,230.119104 301.068578,229.763688 301.187451,229.446546 C301.257066,229.260821 301.298034,229.132339 301.346294,228.985332 C301.752578,228.135466 301.32865,227.5 300.352888,227.5 L1.62873002,227.5 C0.660744504,227.5 0.258196992,228.114817 0.642946929,229.00206 Z"></path>
+            </g>
+            <g id="Group-6" filter="url(#filter-6)" transform="translate(146.000000, 44.000000)">
+                <g id="Rectangle-6-Copy-5">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    <rect stroke="#C6C6C6" stroke-width="1" x="0.5" y="0.5" width="67" height="146" rx="4.42389342"></rect>
+                </g>
+                <rect id="Rectangle-6-Copy-6" stroke="#C6C6C6" x="6.5" y="6.5" width="55" height="67" rx="1.47463114"></rect>
+                <g id="Rectangle-6-Copy-7">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-8"></use>
+                    <rect stroke="#C6C6C6" stroke-width="1" x="7.5" y="107.5" width="13" height="4" rx="2"></rect>
+                </g>
+                <g id="Rectangle-6-Copy-8">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                    <rect stroke="#C6C6C6" stroke-width="1" x="27.5" y="107.5" width="13" height="4" rx="2"></rect>
+                </g>
+                <g id="Rectangle-6-Copy-9">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-10"></use>
+                    <rect stroke="#C6C6C6" stroke-width="1" x="47.5" y="107.5" width="13" height="4" rx="2"></rect>
+                </g>
+                <g id="Rectangle-6-Copy-12">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                    <rect stroke="#C6C6C6" stroke-width="1" x="7.5" y="119.5" width="13" height="4" rx="2"></rect>
+                </g>
+                <g id="Rectangle-6-Copy-11">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-12"></use>
+                    <rect stroke="#C6C6C6" stroke-width="1" x="27.5" y="119.5" width="13" height="4" rx="2"></rect>
+                </g>
+                <g id="Rectangle-6-Copy-10">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
+                    <rect stroke="#C6C6C6" stroke-width="1" x="47.5" y="119.5" width="13" height="4" rx="2"></rect>
+                </g>
+                <g id="Rectangle-6-Copy-15">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-14"></use>
+                    <rect stroke="#C6C6C6" stroke-width="1" x="7.5" y="131.5" width="13" height="4" rx="2"></rect>
+                </g>
+                <g id="Rectangle-6-Copy-14">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-15"></use>
+                    <rect stroke="#C6C6C6" stroke-width="1" x="27.5" y="131.5" width="13" height="4" rx="2"></rect>
+                </g>
+                <g id="Rectangle-6-Copy-13">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-16"></use>
+                    <rect stroke="#C6C6C6" stroke-width="1" x="47.5" y="131.5" width="13" height="4" rx="2"></rect>
+                </g>
+                <g id="Rectangle-6-Copy-17">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-17"></use>
+                    <rect stroke="#C6C6C6" stroke-width="1" x="7.5" y="88.5" width="13" height="5" rx="2.5"></rect>
+                </g>
+                <g id="Rectangle-6-Copy-19">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-18"></use>
+                    <rect stroke="#C6C6C6" stroke-width="1" x="47.5" y="88.5" width="13" height="5" rx="2.5"></rect>
+                </g>
+                <g id="Oval-3">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-19"></use>
+                    <ellipse stroke="#C6C6C6" stroke-width="1" cx="34" cy="90.020625" rx="5.5" ry="5.52062496"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

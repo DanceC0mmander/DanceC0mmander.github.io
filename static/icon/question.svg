@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="60px" viewBox="0 0 66 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>AM/icon/question</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="AM/icon/question" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-27-Copy-4" x="0" y="0" width="66" height="60"></rect>
+        <path d="M28,42 L29,42 L29,44 L28,44 L28,42 Z M29,34 L29,38.6000004 L28.0053711,38.6000004 L28.0053711,33.0405273 C35.9724121,32.5415039 35.6815186,26.3414307 34.1604004,24.2286377 C32.5523804,21.9951404 27.6070557,20.694458 23.8907471,25.0106201 L23.1203613,24.2286377 C28.0053711,18.8778076 33.551499,21.0830436 35.2000008,23.9492187 C37.2246361,27.4693604 35.9782715,33.3964844 29,34 Z" id="Combined-Shape" fill="#41B37D"></path>
+    </g>
+</svg>

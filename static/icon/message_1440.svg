@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79px" height="72px" viewBox="0 0 79 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>AM/icon/message_1440</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="AM/icon/message_1440" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4" transform="translate(10.000000, 10.000000)">
+            <rect id="Rectangle-27-Copy-3" x="0" y="0" width="66" height="60"></rect>
+            <g id="Group-55" transform="translate(17.000000, 17.000000)">
+                <rect id="Rectangle-20-Copy" fill="#9D41CE" x="7" y="12" width="20" height="1"></rect>
+                <rect id="Rectangle-20-Copy-2" fill="#9D41CE" x="7" y="8" width="20" height="1"></rect>
+                <path d="M0.5,20.5 L26.9155487,20.5 L32.3150402,25.6873659 C32.4454182,25.8126218 32.6192032,25.8825748 32.8,25.8825748 C33.1865993,25.8825748 33.5,25.5691741 33.5,25.1825748 L33.5,1.20000005 C33.5,0.813400696 33.1865993,0.5 32.8,0.5 L1.20000005,0.5 C0.813400696,0.5 0.5,0.813400696 0.5,1.20000005 L0.5,20.5 Z" id="Rectangle-19" stroke="#9D41CE" transform="translate(17.000000, 13.191287) scale(-1, 1) translate(-17.000000, -13.191287) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

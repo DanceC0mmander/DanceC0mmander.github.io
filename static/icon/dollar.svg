@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="60px" viewBox="0 0 66 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>AM/icon/dollar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="AM/icon/dollar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-27" x="0" y="0" width="66" height="60"></rect>
+        <rect id="Rectangle-26" fill="#3A61EF" x="27" y="20.5" width="1" height="24"></rect>
+        <path d="M33.6484375,25.3889724 C22.1640625,18.0852803 16.8515625,30.849014 27.6375237,32.0783197 C30.8359375,32.5508452 34.0125323,33.6823329 33.875,36.8123779 C33.6484375,41.9686279 25.7578125,43.1163804 20.6015625,38.1527061" id="Line" stroke="#3A61EF"></path>
+    </g>
+</svg>

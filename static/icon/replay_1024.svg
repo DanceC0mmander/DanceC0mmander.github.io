@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="30px" viewBox="0 0 24 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>AM/icon/replay_1024</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="AM/icon/replay_1024" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-12" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="30"></rect>
+        <g id="Group-15" transform="translate(12.000000, 15.000000) rotate(-179.000000) translate(-12.000000, -15.000000) translate(2.000000, 3.000000)">
+            <path d="M0.0122133831,9.50140568 C0.272023759,4.21018988 4.64434061,7.81597009e-14 10,7.81597009e-14 C15.5228475,7.81597009e-14 20,4.4771525 20,10 C20,14.2054354 17.4040417,17.8045522 13.7271591,19.2823165 L13.3330216,18.3626623 C16.6535503,17.0380646 19,13.7930536 19,10 C19,5.02943725 14.9705627,1 10,1 C5.16133934,1 1.21451828,4.81841921 1.0084548,9.60633964 C0.686098285,9.56867737 0.350946164,9.53286476 0.0122133831,9.50140568 Z" id="Combined-Shape" fill="#B3B3B3"></path>
+            <polyline id="Line-Copy-2" stroke="#ACACAC" stroke-linecap="round" transform="translate(9.000000, 18.889439) scale(-1, 1) translate(-9.000000, -18.889439) " points="6 23.7788782 12 18.9203577 6 14"></polyline>
+        </g>
+    </g>
+</svg>

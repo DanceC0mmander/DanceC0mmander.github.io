@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>AM/icon/arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="AM/icon/arrow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle-18" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="30" height="30"></rect>
+            <g id="Group-12" transform="translate(2.000000, 6.000000)" stroke="#476BF0" stroke-linecap="round">
+                <path d="M0.5,8.5 L14.5,8.5" id="Line"></path>
+                <polyline id="Line-Copy-2" points="15.5 16.3896484 24.5 8.53112793 15.5 0.610770276"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
